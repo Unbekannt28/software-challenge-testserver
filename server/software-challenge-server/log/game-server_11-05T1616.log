@@ -1,0 +1,121 @@
+16:16:13.855 INFO                 sc.server.Application - Server is starting up...
+16:16:13.857 INFO               sc.server.Configuration - Loading configuration from /home/unbekannt/Downloads/swc_server/software-challenge-server/server.properties
+16:16:13.888 INFO   sc.server.network.NewClientListener - Listening on port 13050 for incoming connections.
+16:16:13.890 INFO       sc.server.network.ClientManager - ClientManager running
+16:16:55.073 INFO   sc.server.network.NewClientListener - Connecting a Client at Socket[addr=/127.0.0.1,port=36254,localport=13050]...
+16:16:55.602 INFO       sc.server.network.ClientManager - Delegating new client to ClientManager...
+16:16:55.604 INFO       sc.server.network.ClientManager - Delegation done
+16:16:55.602 INFO   sc.server.network.NewClientListener - Added Client Client@4dcf4fce to ReadyQueue.
+16:16:55.726 WARN             sc.server.gaming.GameRoom - PAUSE is already false, dropping request
+16:16:55.730 INFO             sc.server.gaming.GameRoom - Game not ready yet: Game(players=[ONE()], gameState=GameState 0, ONE ist dran [1:C6S1, 2:C6S1])
+16:17:29.871 INFO   sc.server.network.NewClientListener - Connecting a Client at Socket[addr=/127.0.0.1,port=52070,localport=13050]...
+16:17:29.882 INFO       sc.server.network.ClientManager - Delegating new client to ClientManager...
+16:17:29.883 INFO       sc.server.network.ClientManager - Delegation done
+16:17:29.883 INFO   sc.server.network.NewClientListener - Added Client Client@6b3047c8 to ReadyQueue.
+16:17:30.181 INFO             sc.server.gaming.GameRoom - Starting Game(players=[ONE(), TWO()], gameState=GameState 0, ONE ist dran [1:C6S1, 2:C6S1])
+16:17:30.258 INFO                    sc.plugin2024.Game - Sending MoveRequest to player ONE()
+16:17:30.259 INFO             sc.server.gaming.GameRoom - Updating Status to ACTIVE (was: CREATED)
+16:17:30.288 INFO                    sc.plugin2024.Game - Time needed for move: 31
+16:17:30.322 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:30.358 INFO                    sc.plugin2024.Game - Time needed for move: 36
+16:17:30.391 INFO                    sc.plugin2024.Game - Sending MoveRequest to player ONE()
+16:17:30.396 INFO                    sc.plugin2024.Game - Time needed for move: 5
+16:17:30.423 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:30.426 INFO                    sc.plugin2024.Game - Time needed for move: 3
+16:17:30.454 INFO                    sc.plugin2024.Game - Sending MoveRequest to player ONE()
+16:17:30.458 INFO                    sc.plugin2024.Game - Time needed for move: 4
+16:17:30.488 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:30.491 INFO                    sc.plugin2024.Game - Time needed for move: 4
+16:17:30.521 INFO                    sc.plugin2024.Game - Sending MoveRequest to player ONE()
+16:17:30.524 INFO                    sc.plugin2024.Game - Time needed for move: 3
+16:17:30.552 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:30.555 INFO                    sc.plugin2024.Game - Time needed for move: 3
+16:17:30.578 INFO                    sc.plugin2024.Game - Sending MoveRequest to player ONE()
+16:17:30.581 INFO                    sc.plugin2024.Game - Time needed for move: 3
+16:17:30.608 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:30.613 INFO                    sc.plugin2024.Game - Time needed for move: 5
+16:17:30.637 INFO                    sc.plugin2024.Game - Sending MoveRequest to player ONE()
+16:17:30.640 INFO                    sc.plugin2024.Game - Time needed for move: 3
+16:17:30.668 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:30.671 INFO                    sc.plugin2024.Game - Time needed for move: 3
+16:17:30.698 INFO                    sc.plugin2024.Game - Sending MoveRequest to player ONE()
+16:17:30.701 INFO                    sc.plugin2024.Game - Time needed for move: 3
+16:17:30.729 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:30.733 INFO                    sc.plugin2024.Game - Time needed for move: 4
+16:17:30.754 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:30.757 INFO                    sc.plugin2024.Game - Time needed for move: 3
+16:17:30.782 INFO                    sc.plugin2024.Game - Sending MoveRequest to player ONE()
+16:17:30.786 INFO                    sc.plugin2024.Game - Time needed for move: 4
+16:17:30.805 INFO                    sc.plugin2024.Game - Sending MoveRequest to player ONE()
+16:17:30.809 INFO                    sc.plugin2024.Game - Time needed for move: 4
+16:17:30.828 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:30.831 INFO                    sc.plugin2024.Game - Time needed for move: 3
+16:17:30.858 INFO                    sc.plugin2024.Game - Sending MoveRequest to player ONE()
+16:17:30.861 INFO                    sc.plugin2024.Game - Time needed for move: 4
+16:17:30.900 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:30.906 INFO                    sc.plugin2024.Game - Time needed for move: 6
+16:17:30.932 INFO                    sc.plugin2024.Game - Sending MoveRequest to player ONE()
+16:17:30.936 INFO                    sc.plugin2024.Game - Time needed for move: 4
+16:17:30.972 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:30.975 INFO                    sc.plugin2024.Game - Time needed for move: 3
+16:17:31.000 INFO                    sc.plugin2024.Game - Sending MoveRequest to player ONE()
+16:17:31.005 INFO                    sc.plugin2024.Game - Time needed for move: 5
+16:17:31.024 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.031 INFO                    sc.plugin2024.Game - Time needed for move: 7
+16:17:31.061 INFO                    sc.plugin2024.Game - Sending MoveRequest to player ONE()
+16:17:31.066 INFO                    sc.plugin2024.Game - Time needed for move: 5
+16:17:31.092 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.097 INFO                    sc.plugin2024.Game - Time needed for move: 5
+16:17:31.130 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.143 INFO                    sc.plugin2024.Game - Time needed for move: 14
+16:17:31.167 INFO                    sc.plugin2024.Game - Sending MoveRequest to player ONE()
+16:17:31.170 INFO                    sc.plugin2024.Game - Time needed for move: 4
+16:17:31.188 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.191 INFO                    sc.plugin2024.Game - Time needed for move: 3
+16:17:31.222 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.224 INFO                    sc.plugin2024.Game - Time needed for move: 2
+16:17:31.254 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.257 INFO                    sc.plugin2024.Game - Time needed for move: 3
+16:17:31.293 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.303 INFO                    sc.plugin2024.Game - Time needed for move: 10
+16:17:31.325 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.332 INFO                    sc.plugin2024.Game - Time needed for move: 7
+16:17:31.358 INFO                    sc.plugin2024.Game - Sending MoveRequest to player ONE()
+16:17:31.361 INFO                    sc.plugin2024.Game - Time needed for move: 3
+16:17:31.382 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.386 INFO                    sc.plugin2024.Game - Time needed for move: 4
+16:17:31.400 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.408 INFO                    sc.plugin2024.Game - Time needed for move: 8
+16:17:31.434 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.437 INFO                    sc.plugin2024.Game - Time needed for move: 3
+16:17:31.454 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.457 INFO                    sc.plugin2024.Game - Time needed for move: 3
+16:17:31.473 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.475 INFO                    sc.plugin2024.Game - Time needed for move: 2
+16:17:31.495 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.496 INFO                    sc.plugin2024.Game - Time needed for move: 1
+16:17:31.518 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.520 INFO                    sc.plugin2024.Game - Time needed for move: 2
+16:17:31.540 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.542 INFO                    sc.plugin2024.Game - Time needed for move: 2
+16:17:31.563 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.565 INFO                    sc.plugin2024.Game - Time needed for move: 2
+16:17:31.591 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.598 INFO                    sc.plugin2024.Game - Time needed for move: 8
+16:17:31.626 INFO                    sc.plugin2024.Game - Sending MoveRequest to player TWO()
+16:17:31.629 INFO                    sc.plugin2024.Game - Time needed for move: 3
+16:17:31.635 INFO                    sc.plugin2024.Game - Stopping Game(OVER, players=[ONE(), TWO()], gameState=GameState 59, ONE ist dran [1:C0S2, 2:C0S1])
+16:17:31.639 INFO             sc.server.gaming.GameRoom - Updating Status to OVER (was: ACTIVE)
+16:17:31.639 INFO             sc.server.gaming.GameRoom - Game(OVER, players=[ONE(), TWO()], gameState=GameState 59, ONE ist dran [1:C0S2, 2:C0S1]) is over (regular=true)
+16:17:31.664 INFO   sc.networking.clients.XStreamClient - Stopping XStream-Receive id:14 of Client@4dcf4fce
+16:17:31.664 WARN   sc.networking.clients.XStreamClient - ReceiveThread is stopping itself
+16:17:31.666 INFO   sc.networking.clients.XStreamClient - Client@4dcf4fce disconnected (Cause: RECEIVED_DISCONNECT)
+16:17:31.666 INFO       sc.server.network.ClientManager - Removing client Client@4dcf4fce from client manager
+16:17:31.666 INFO             sc.server.gaming.GameRoom - Removing ONE() from sc.server.gaming.GameRoom@4a921ff0
+16:17:31.671 INFO   sc.networking.clients.XStreamClient - Stopping XStream-Receive id:15 of Client@6b3047c8
+16:17:31.671 WARN   sc.networking.clients.XStreamClient - ReceiveThread is stopping itself
+16:17:31.671 INFO   sc.networking.clients.XStreamClient - Client@6b3047c8 disconnected (Cause: RECEIVED_DISCONNECT)
+16:17:31.671 INFO       sc.server.network.ClientManager - Removing client Client@6b3047c8 from client manager
+16:17:31.671 INFO             sc.server.gaming.GameRoom - Removing TWO() from sc.server.gaming.GameRoom@4a921ff0
+16:22:49.628 INFO              sc.server.ServiceManager - Shutting down all services...
+16:22:49.630 INFO                 sc.server.Application - Exiting application...
